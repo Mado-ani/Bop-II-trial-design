@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+library(usethis)
+
+use_git_config(user.name = "Mado", user.email = "mohamad_es91@yahoo.com")
+
